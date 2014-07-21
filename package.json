@@ -1,0 +1,23 @@
+{
+  "preferences": [
+  ],
+  "permissions": {
+    "private-browsing": true
+  },
+  "name": "quick-load",
+  "license": "MPL 2.0",
+  "author": "Blake Winton <bwinton@latte.ca>",
+  "icon": "data/icon-48.png",
+  "icon64": "data/icon-64.png",
+  "bugs": {},
+  "amd": {},
+  "repository": {},
+  "version": "1.0.0",
+  "contributors": [],
+  "id": "jid1-quick-load",
+  "fullName": "Quick Load",
+  "description": "A test of some quicker page loading ideas for Firefox.",
+  "devDependencies": {
+    "grunt": "~0.4.2"
+  }
+}
